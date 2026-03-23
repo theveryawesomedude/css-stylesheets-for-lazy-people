@@ -12,4 +12,12 @@
   transform: scale(1.05);
 }
 
+.stylebutton:focus {
+  outline: 2px solid white;
+}
+
+.stylebutton:active {
+  transform: scale(0.95);
+}
+
 /* CSS Stylesheet for buttons, specified as class incase you want a button to look different from a button of class stylebutton */
