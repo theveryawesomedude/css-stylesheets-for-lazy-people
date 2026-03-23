@@ -1,0 +1,15 @@
+.stylebutton {
+  border-radius: 15px;
+  padding: 10px 20px;
+  font-size: 12px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+.stylebutton:hover {
+  background-color: black;
+  color: white;
+  transform: scale(1.05);
+}
+
+/* CSS Stylesheet for buttons, specified as class incase you want a button to look different from a button of class stylebutton */
