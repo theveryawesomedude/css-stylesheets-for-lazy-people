@@ -13,3 +13,5 @@
 .styleinput:hover {
     transform: scale(1.05);
 }
+
+/* Stylesheet for <input> elements of class styleinput. */
