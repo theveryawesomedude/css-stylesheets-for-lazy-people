@@ -1,0 +1,15 @@
+.styleinput {
+    font-size: 12px;
+    border-radius: 8px;
+    border: 2px solid black;
+    outline: none;
+    transition: border-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+}
+
+.styleinput:focus {
+    border-color: white;
+}
+
+.styleinput:hover {
+    transform: scale(1.05);
+}
