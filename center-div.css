@@ -1,0 +1,7 @@
+.centered-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* The most important of them all, and the hardest since all we now know is prompting an AI to make our code, CENTERING A DIV, scary right? */
