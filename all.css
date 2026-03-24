@@ -1,0 +1,9 @@
+/* All current stylesheets of now */
+/* Wrap any of these imports in comments to disable them */
+
+@import url("card.css");
+@import url("buttons.css");
+@import url("center-div.css");
+@import url("inputbox.css");
+
+/* Imports can be slow by the way, so use them properly */
