@@ -13,7 +13,7 @@
 }
 
 .stylebutton:focus {
-  outline: 2px solid white;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
 }
 
 .stylebutton:active {
